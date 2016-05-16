@@ -1,6 +1,5 @@
 /**
  *  Runtime: 148 ms
- *  Sorry. We do not have enough accepted submissions.
  */
 
 /**
