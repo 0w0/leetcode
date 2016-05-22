@@ -1,8 +1,4 @@
 /**
- * Runtime: 116 ms
- */
-
-/**
  * Definition for a binary tree node.
  * function TreeNode(val) {
  *     this.val = val;

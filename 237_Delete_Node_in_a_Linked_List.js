@@ -1,8 +1,4 @@
 /**
- * Runtime: 140 ms
- */
-
-/**
  * Definition for singly-linked list.
  * function ListNode(val) {
  *     this.val = val;

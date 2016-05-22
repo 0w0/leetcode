@@ -1,8 +1,4 @@
 /**
- *  Runtime: 148 ms
- */
-
-/**
  * @param {string} s
  * @return {string}
  */

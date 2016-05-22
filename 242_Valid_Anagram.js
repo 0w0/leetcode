@@ -1,8 +1,4 @@
 /**
- * Runtime: 172 ms
- */
-
-/**
  * @param {string} s
  * @param {string} t
  * @return {boolean}
