@@ -15,7 +15,11 @@ var isSameTree = function(p, q) {
 };
 
 /**
- * Runtime: 104 ms
+ * General Way to do it
+ *
+ * @param {TreeNode} p
+ * @param {TreeNode} q
+ * @return {boolean}
  */
 var isSameTree = function(p, q) {
     // First element assertion, since {} always != {}
