@@ -8,8 +8,8 @@ char* reverseString(char* s) {
   
   for (i = 0, j = len; i <= end; i++, j--) {
     temp = s[j];
-	s[j] = s[i];
-	s[i] = temp;
+    s[j] = s[i];
+    s[i] = temp;
   }
 
   return s;
